@@ -3,7 +3,7 @@ https://www.linkedin.com/in/justinwelsh/
 Focus: B2B LinkedIn growth, personal branding
 
 Alex Hormozi
-https://www.youtube.com/@AlexHormozi
+https://www.linkedin.com/in/alexhormozi/
 Focus: Content strategy, audience building
 
 Mandy McEwen
