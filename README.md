@@ -69,14 +69,19 @@ It also aligns with my background in outreach and lead generation.
 •	High-performing posts often follow simple, repeatable frameworks
 •	Content that shares real experience performs better than generic advice
 
+## Key Takeaways for B2B SaaS Companies
+
+• LinkedIn should be treated as a full-funnel system (not just awareness channel)  
+• Content should be designed around repeatable frameworks, not one-off ideas  
+• Founder-led content builds more trust than branded corporate posts  
+• Distribution and consistency matter more than virality  
+• The strongest accounts combine storytelling + tactical insights + personal experience
+
 ## Tools used
 •	Cursor IDE
 •	Claude Code
 •	Codex
 •	GitHub
-## Repository Structure
-•	/research/sources.md — list of selected experts
-•	/research/linkedin-posts/ — collected LinkedIn posts
-•	/research/youtube-transcripts/ — video transcripts
-• /research/insights.md
+
+
 
