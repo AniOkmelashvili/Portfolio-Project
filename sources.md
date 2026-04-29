@@ -62,7 +62,7 @@ Why selected: Focuses on structured content creation systems that improve reach 
 
 
 ## Jasmin Alić  
-https://www.linkedin.com/in/jasmin-alic/  
+https://www.linkedin.com/in/alicjasmin/ 
 Type: LinkedIn ghostwriter / Copywriter  
 Focus: LinkedIn writing, ghostwriting systems, and high-engagement content creation  
 Why selected: Specializes in converting ideas into high-performing LinkedIn content
